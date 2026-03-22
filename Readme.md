@@ -66,3 +66,6 @@ Compare the simulation results with the theoretical calculations and discuss any
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4f00b3ce-2fc6-4136-9eaf-38a679e78c46" />
+
