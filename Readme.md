@@ -61,6 +61,8 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+<img width="494" height="308" alt="image" src="https://github.com/user-attachments/assets/0ab3838d-208a-41e3-b018-9af3e044fb93" />
+<img width="729" height="425" alt="image" src="https://github.com/user-attachments/assets/c5667196-4996-4300-8a33-59a6a84f0cf5" />
 
 
 ---
